@@ -79,13 +79,14 @@ ARQUITECTURA Y ESTRUCTURA DEL PROYECTO
 
 Mantenemos una organización modular para facilitar el mantenimiento:
 
+```text
 /
 ├── .github/              # Motor de plantillas (Issues y Pull Requests)
 ├── docs/                 # Guías metodológicas y reportes técnicos
 ├── public/               # Recursos estáticos (imágenes, iconos)
 ├── src/                  # Código fuente principal
 │   ├── assets/           # Estilos globales y multimedia
-    |── routes            # Rutas iniciales del sisteme
+|   |── routes            # Rutas iniciales del sistema
 │   ├── components/       # Piezas de interfaz reutilizables (UI)
 │   ├── services/         # Lógica de consumo de datos o APIs
 │   ├── views/            # Secciones o páginas principales
@@ -94,6 +95,7 @@ Mantenemos una organización modular para facilitar el mantenimiento:
 ├── package.json          # Dependencias y scripts del proyecto
 ├── README.md             # Manual principal del repositorio
 └── TEAM_AGREEMENT.md     # Acuerdo y normas de convivencia del equipo
+```
 
 METODOLOGÍA DE TRABAJO (GITFLOW PROFESIONAL)
 
