@@ -86,7 +86,7 @@ Mantenemos una organización modular para facilitar el mantenimiento:
 ├── public/               # Recursos estáticos (imágenes, iconos)
 ├── src/                  # Código fuente principal
 │   ├── assets/           # Estilos globales y multimedia
-|   |── routes            # Rutas iniciales del sistema
+|   |── routes/           # Rutas iniciales del sistema
 │   ├── components/       # Piezas de interfaz reutilizables (UI)
 │   ├── services/         # Lógica de consumo de datos o APIs
 │   ├── views/            # Secciones o páginas principales
