@@ -5,7 +5,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 ## 1. Miembros del Equipo y Roles
 | Nombre | Rol | Usuario de GitHub |
 | :---| :---| :---|
-| [Aprendiz1] | Líder (Desarrollador Backend) | `cuentagithub` |
+| [Sergio Álvarez] | Líder (Desarrollador Backend) | `@andre1985dominiocom` |
 | [Aprendiz2] | Desarrollador frontend  | `cuentagithub` |
 | [Aprendiz3] | Desarrollador frontend- | `cuentagithub` |
 
@@ -16,7 +16,7 @@ Para mantener el orden y separar lo profesional de lo personal, usaremos los sig
 * **Gestión de Tareas y Código:** Estrictamente a través de los *Issues* y *Pull Requests* de GitHub. (No se revisa código por WhatsApp).
 
 ## 3. Horarios y Sincronización
-* **Reuniones de Sincronización (Daily Stand-up):** Nos reuniremos los días [Lunes y Miércoles] a las [1:00pm] de forma [Presencial].
+* **Reuniones de Sincronización (Daily Stand-up):** Nos reuniremos los días [Viernes] a las [1:00pm] de forma [Presencial].
 * **Tiempo máximo de respuesta:** Nos comprometemos a responder mensajes del equipo en un máximo de [4 horas] durante el horario hábil.
 
 ## 4. Reglas de Desarrollo
