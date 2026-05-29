@@ -15,6 +15,7 @@ app.use(express.json());
 // usamos las rutas importadas
 app.use('/api/users', listUsers);
 app.use('/api', listTasks);
+app.use(`/api/`)
 
 // ruta raíz para verificar que el servidor está corriendo
 app.get('/', (req, res) => {
